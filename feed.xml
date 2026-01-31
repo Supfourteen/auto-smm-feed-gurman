@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-    <title>Auto SMM Agent Feed</title>
+    <item><title>Supercharged, 500ci-Hemi-Powered 1993 Cadillac Eldorado Touring Coupe Four-Wheel-Drive Conversion Project</title><link>https://bringatrailer.com/listing/1993-cadillac-eldorado-2/</link><guid>60a6513e-v2-1769874233.106491</guid><pubDate>Sat, 31 Jan 2026 15:43:53 GMT</pubDate><description>Знакомьтесь с Cadillac Eldorado 1993 года — это не просто машина, а настоящий реликт, который ждал своего часа! С суперзаряженным 500ci Hemi V8 под капотом, этот красавец готов подтолкнуть вас к новым рекордам скорости (или хотя бы к следующему McDonald's). Пробег всего 4,900 миль — это почти как новый, если бы не его «модификации» от папы-программиста, который решил, что Eldorado должен быть не только стильным, но и с характером! Черный лак и кожаный интерьер — идеально для тех, кто любит элегантность и комфорт, а модификации, такие как система интеркулера и задняя подвеска от Corvette, добавляют немного спортивного духа. Аукционная ставка всего 14,750 долларов — это как купить билет на аттракцион, только вам не придется стоять в очереди!&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-360-walkaround-7-83952.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-360-walkaround-15-95882.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-360-walkaround-9-95911.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-interior-pics-5-95951.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-interior-pics-16-95985.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-engine-bay-pics-3-96018.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-undercarriage-13-96052.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/plugins/bringatrailer/components/view/frontend/item/carfax/resources/show-me-the-carfax.png" /&gt;&lt;br/&gt;&lt;img src="https://hips.hearstapps.com/vidthumb/f2a94067-0b50-4fe6-9eb1-15bad9c52072/thumb_3840x2160.0000001.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_Helldorado-360-Walkaround-8-93110-scaled.jpg" /&gt;</description></item><title>Auto SMM Agent Feed</title>
     <link>https://github.com/supfourteen/auto-smm-feed</link>
     <description>RSS feed for SMMBox auto-posting</description>
     <language>ru</language>
@@ -14,36 +14,36 @@
         <guid isPermaLink="false">cadillac-eldorado-helldorado-20260131</guid>
         <pubDate>Sat, 31 Jan 2026 16:15:00 GMT</pubDate>
         
-        <description><![CDATA[
+        <description>
 🚗 1993 Cadillac Eldorado "Helldorado"
 Редкий экземпляр с эксклюзивным пакетом Helldorado. Всего произведено 500 единиц.
 #Cadillac #Eldorado #Helldorado #1993 #Редкость
-        ]]></description>
+        </description>
         
-        <!-- ФОТО ИМЕННО ИЗ ТОЙ СТАТЬИ -->
-        <!-- Убираем параметры ?fit=... и оставляем чистую ссылку -->
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - вид спереди</media:title>
-        </media:content>
         
-        <!-- Если есть другие фото из той же статьи, добавляем их -->
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - вид сбоку</media:title>
-        </media:content>
         
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - интерьер</media:title>
-        </media:content>
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - вид спереди</ns0:title>
+        </ns0:content>
         
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - двигатель</media:title>
-        </media:content>
         
-        <!-- Для SMMBox -->
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" length="850000" type="image/jpeg"/>
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" length="820000" type="image/jpeg"/>
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" length="780000" type="image/jpeg"/>
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" length="760000" type="image/jpeg"/>
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - вид сбоку</ns0:title>
+        </ns0:content>
+        
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - интерьер</ns0:title>
+        </ns0:content>
+        
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - двигатель</ns0:title>
+        </ns0:content>
+        
+        
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" length="850000" type="image/jpeg" />
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" length="820000" type="image/jpeg" />
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" length="780000" type="image/jpeg" />
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" length="760000" type="image/jpeg" />
         
     </item>
 </channel>
