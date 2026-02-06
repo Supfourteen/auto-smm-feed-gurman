@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>Автогурман - Новости</title>
-  <link>https://ВАШ_САЙТ_ИЛИ_ССЫЛКА_НА_ПАБЛИК</link>
+  <link>https://github.com/Supfourteen</link>
   <description>Срочные новости от паблика Автогурман</description>
-  <!-- Новые новостные посты будут добавляться сюда -->
+  
+  <!-- === ТЕСТОВЫЙ ПОСТ === -->
+  <item>
+    <title>Тестовый пост</title>
+    <link>https://github.com/Supfourteen/auto-smm-feed-gurman/commit</link>
+    <guid>test-post-12345</guid>
+    <pubDate>Tue, 04 Feb 2026 12:00:00 +0300</pubDate>
+    <description><![CDATA[Это тестовый пост, чтобы smm-box увидел структуру.]]></description>
+    <content:encoded><![CDATA[<p>Это тестовый пост, чтобы smm-box увидел структуру.</p><img src="https://i.imgur.com/KqW3o6d.png" />]]></content:encoded>
+  </item>
+  
 </channel>
 </rss>
