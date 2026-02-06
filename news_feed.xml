@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Автогурман - Новости</title>
+  <link>https://ВАШ_САЙТ_ИЛИ_ССЫЛКА_НА_ПАБЛИК</link>
+  <description>Срочные новости от паблика Автогурман</description>
+  <!-- Новые новостные посты будут добавляться сюда -->
+</channel>
+</rss>
